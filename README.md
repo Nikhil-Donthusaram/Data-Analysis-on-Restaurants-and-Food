@@ -1,5 +1,5 @@
 # Data-Analysis-on-Restaurants-and-Food
-data-driven analysis of restaurant trends in Bangalore using Zomato’s real-world dataset.
+Data-driven analysis of restaurant trends in Bangalore using Zomato’s real-world dataset.
 
 
 # 🍽️ Zomato Bangalore Data Analysis & Geospatial Visualization
